@@ -17,12 +17,14 @@ Revenue by Hour (Order Time)
 Revenue by Months
 Top 5 Products by Revenue
 Top 10 Cities by Orders
+
 2. Data Modeling
 Data modeling ensures the organization of raw data into structured datasets that support efficient analysis. Key tasks completed:
 
 Defined relationships between various entities such as orders, customers, products, and time dimensions.
 Data source integration from raw sales records.
 Created pivot tables to aggregate and summarize data for visualization.
+
 3. Data Cleaning
 Data cleaning was performed to ensure accurate and consistent data. Tasks include:
 
@@ -30,12 +32,14 @@ Handling missing values: Filled missing order dates or revenue details using int
 Standardizing formats: Converted inconsistent date formats into a standard format.
 Removing duplicates: Eliminated redundant entries in sales transactions.
 Ensuring categorical consistency: Standardized names for occasions, product categories, and cities.
+
 4. Data Processing
 Data transformation and calculations were performed to derive key metrics:
 
 Calculated total revenue, total orders, and average spending.
 Derived order-to-delivery time by computing the difference between order date and delivery date.
 Created time-based aggregations for monthly, hourly, and occasion-based revenue tracking.
+
 5. Data Visualization
 The dashboard contains multiple charts to represent insights:
 
