@@ -4,11 +4,16 @@ I have developed a comprehensive project in Excel, creating dashboard and tables
 Sales Analysis Dashboard in Excel
 1. Overview of the Dashboard
 The Sales Analysis Dashboard provides insights into revenue generation, customer orders, product categories, and geographical trends. It includes key metrics such as:
-
+<br>
 Total Orders: 1000
+<br>
 Total Revenue: ₹35,20,984.00
+<br>
 Average Customer Spending: ₹3,520.98
+<br>
 Order-Delivery Time Analysis
+<br>
+
 The dashboard consists of various visual elements:
 
 Revenue by Occasions
