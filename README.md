@@ -4,7 +4,7 @@ I have developed a comprehensive project in Excel, creating dashboard and tables
 Sales Analysis Dashboard in Excel
 1. Overview of the Dashboard
 The Sales Analysis Dashboard provides insights into revenue generation, customer orders, product categories, and geographical trends. It includes key metrics such as:
-<br>
+
 Total Orders: 1000
 <br>
 Total Revenue: ₹35,20,984.00
@@ -29,7 +29,7 @@ Top 10 Cities by Orders
 
 2. Data Modeling
 Data modeling ensures the organization of raw data into structured datasets that support efficient analysis. Key tasks completed:
-<br>
+
 Defined relationships between various entities such as orders, customers, products, and time dimensions.
 <br>
 Data source integration from raw sales records.
@@ -38,7 +38,7 @@ Created pivot tables to aggregate and summarize data for visualization.
 
 3. Data Cleaning
 Data cleaning was performed to ensure accurate and consistent data. Tasks include:
-<br>
+
 Handling missing values: Filled missing order dates or revenue details using interpolation or historical trends.
 <br>
 Standardizing formats: Converted inconsistent date formats into a standard format.
@@ -49,7 +49,7 @@ Ensuring categorical consistency: Standardized names for occasions, product cate
 
 4. Data Processing
 Data transformation and calculations were performed to derive key metrics:
-<br>
+
 Calculated total revenue, total orders, and average spending.
 <br>
 Derived order-to-delivery time by computing the difference between order date and delivery date.
@@ -58,7 +58,7 @@ Created time-based aggregations for monthly, hourly, and occasion-based revenue 
 
 5. Data Visualization
 The dashboard contains multiple charts to represent insights:
-<br>
+
 Bar Charts: Used for revenue by category and occasions.
 <br>
 Line Charts: Depicts trends such as revenue by months and revenue by order time.
